@@ -1,4 +1,5 @@
-# NoLib
+# NoLib DEMO
+WARNING: THIS IS A DEMO!! BUILD IT YOURSELF USING MODULE.EXPORT OR PUT THOSE FUNCTIONS CODES AT THE END OF YOUR BOT CODE!!
 A powerful JS Library used by NoSpam to Hook &amp; other Stuff
 NOTE: Due to NoSpam being closed-source, this is just a Limited but still cool Version of the NoLib.
 
