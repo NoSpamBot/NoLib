@@ -24,4 +24,4 @@ NOTE: Due to NoSpam being closed-source, this is just a Limited but still cool V
 - Idk, i don't have enough time to build one atm, sorry.
 
 > How do it Hook my Bot Processes?
-- Just make another .js file to Hook 'em, those kinda functions are NoLib's Built-In
+- Soon
